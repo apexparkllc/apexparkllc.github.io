@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Apex Park LLC
+author: Contact
 email: support@apexpark.co
 description: Copyright © 2018 Apex Park LLC
 url: "www.apexpark.co"

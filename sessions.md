@@ -16,8 +16,7 @@ With the Sessions app, you can:
 
 Happy practicing!
 
-<a href='https://play.google.com/store/apps/details?id=co.apexpark.sessions&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="80"/></a>
-
+| <a href="https://itunes.apple.com/us/app/sessions-music-practice-log/id1396222207?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;margin-left:10px;background-size:contain;"></a> | <a href='https://play.google.com/store/apps/details?id=co.apexpark.sessions&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height="60" /></a> |
 
 [Terms & Conditions]({% link sessions/terms.html %})
 
